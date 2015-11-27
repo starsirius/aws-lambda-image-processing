@@ -1,0 +1,17 @@
+{
+  "name": "aws-lambda-image-processing",
+  "version": "0.0.1",
+  "description": "Image processing via AWS lambda",
+  "main": "CreateThumbnails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chung-Yi Chi <cychi1210@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "dotenv": "^1.2.0",
+    "gm": "^1.21.1"
+  },
+  "devDependencies": {}
+}

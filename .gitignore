@@ -1,0 +1,20 @@
+.env
+node_modules
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+.DS_Store
